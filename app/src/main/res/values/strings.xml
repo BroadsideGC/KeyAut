@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KeyAut</string>
+    <string name="method_label">KT Keyboard</string>
+    <string name="method_subtype">RU</string>
+    <string name="main_button">Ты пидор</string>
+    <string name="send_text">Ввод</string>
+    <string name="text_clear">Очистить</string>
+</resources>

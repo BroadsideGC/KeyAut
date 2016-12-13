@@ -1,2 +1,2 @@
 # KeyAut
-Keyboard for KT
+Useful keyboard with one very common phrase
